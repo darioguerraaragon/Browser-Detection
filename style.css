@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Browsers {
+    min-height: 30vh;
+}
+
+
+.chrome {
+    width: 25%;
+    height: 5%;
+}
+
+.safari {
+    width: 25%;
+    height: 55;
+}
+
+.firefox {
+    width: 25%;
+    height: 5%;
+}
+
+.edge {
+    width: 25%;
+    height: 5%;
+}
+
+.opera {
+    width: 25%;
+    height: 5%;
+}
+
+.footer {
+    margin-top: 13%;
+}
+
+/* github icon */
+
+.github {
+    width: 3%;
+    height: 3%;
+}
+
+.github:hover {
+    cursor: pointer;
+}
