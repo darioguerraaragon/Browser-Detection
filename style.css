@@ -48,3 +48,20 @@
 .github:hover {
     cursor: pointer;
 }
+
+/* responsive branch */
+
+@media(max-width:850px){
+    .Browser {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        min-height: 40vh;    
+    }
+
+    .github {
+        width: 10%;
+        height: 10%;
+    }
+}
